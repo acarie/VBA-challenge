@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Mod2Challenge()
 
     'Applies code to all worksheets
